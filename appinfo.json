@@ -33,6 +33,9 @@
     },
     "sdkVersion": "3",
     "shortName": "Simple Golf",
+    "targetPlatforms": [
+        "chalk"
+    ],
     "uuid": "0e24c9c0-1f1c-4fe4-94a5-36e4c715e5f1",
     "versionCode": 1,
     "versionLabel": "1.0",
